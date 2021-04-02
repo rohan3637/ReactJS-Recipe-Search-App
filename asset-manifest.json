@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-recipe-search/static/css/main.8ac64660.chunk.css",
+    "main.js": "/react-recipe-search/static/js/main.8acbf4e4.chunk.js",
+    "main.js.map": "/react-recipe-search/static/js/main.8acbf4e4.chunk.js.map",
+    "runtime-main.js": "/react-recipe-search/static/js/runtime-main.098c2aa2.js",
+    "runtime-main.js.map": "/react-recipe-search/static/js/runtime-main.098c2aa2.js.map",
+    "static/js/2.2f4e3612.chunk.js": "/react-recipe-search/static/js/2.2f4e3612.chunk.js",
+    "static/js/2.2f4e3612.chunk.js.map": "/react-recipe-search/static/js/2.2f4e3612.chunk.js.map",
+    "static/js/3.babfab2e.chunk.js": "/react-recipe-search/static/js/3.babfab2e.chunk.js",
+    "static/js/3.babfab2e.chunk.js.map": "/react-recipe-search/static/js/3.babfab2e.chunk.js.map",
+    "index.html": "/react-recipe-search/index.html",
+    "static/css/main.8ac64660.chunk.css.map": "/react-recipe-search/static/css/main.8ac64660.chunk.css.map",
+    "static/js/2.2f4e3612.chunk.js.LICENSE.txt": "/react-recipe-search/static/js/2.2f4e3612.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.098c2aa2.js",
+    "static/js/2.2f4e3612.chunk.js",
+    "static/css/main.8ac64660.chunk.css",
+    "static/js/main.8acbf4e4.chunk.js"
+  ]
+}
